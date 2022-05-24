@@ -1,0 +1,6 @@
+{
+  "litePackMaxDownSpeed": 20971520,
+  "res_update_limit_cellular": 50,
+  "res_update_limit_wifi": 10240,
+  "reportloginflowdetail": false
+}
